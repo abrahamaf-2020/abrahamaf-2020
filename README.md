@@ -11,7 +11,7 @@
 **Este texto es _extremadamente_ importante **
 *** Todo en negrita y cursiva ***
 Este es un texto <sub> subíndice </sub>
-Este es un texto en <up> superíndice </sup).
+Este es un texto en <up> superíndice </sup>.
 This is an <ins>underlined</ins> text
 
 
